@@ -39,7 +39,7 @@ void mergesort(int s[], int r[], int start, int end)
 int main()
 {
     int n;
-    scanf("%d",n); //error
+    scanf("%d",&n); //correct
     int arr[n];
     int temp[n];
     for (int i=0;i<n;i++)
