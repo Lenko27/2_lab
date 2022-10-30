@@ -1,0 +1,3 @@
+[submodule "2_lab"]
+	path = 2_lab
+	url = https://github.com/Lenko27/2_lab.git
